@@ -1,0 +1,4 @@
+.ui.cards>.card>.image>img{
+    width: 20vh;
+    margin: auto;
+}
